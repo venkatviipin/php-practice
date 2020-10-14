@@ -15,14 +15,6 @@
 		
 
 
-		<?php  
-
-
-
-		?>
-
+		
 	
 
-		</article><!--MAIN CONTENT-->
-
-<?php include "includes/footer.php"; ?>
