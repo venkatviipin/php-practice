@@ -1,0 +1,15 @@
+!DOCTYPE html
+<html lang="en">
+<head>
+<meta 
+charset="UTF-8">
+<title>first start</title>
+</head>
+<body>
+<?php
+function add($number,$number){
+ $sum=$number+$number;
+ }add(34,56);
+?>
+</body>
+
